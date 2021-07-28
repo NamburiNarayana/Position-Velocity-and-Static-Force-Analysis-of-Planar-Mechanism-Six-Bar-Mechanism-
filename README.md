@@ -1,0 +1,2 @@
+# Position-Velocity-and-Static-Force-Analysis-of-Planar-Mechanism-Six-Bar-Mechanism-
+The mechanism contains an inverted slider crank kinematic chain connected in parallel with a slider crank. The kinematic chain RTR´s joints are connected with the crank and coupler of the slider crank. By means of changing the geometrical lengths of the mechanism´s links the coupler point M describe a range of coupler curves. The interactive animation was generated for the geometric dimensions: l1 = 100 mm, l1´ = 100 mm, l2 = 500 mm, l2´ = 250 mm, l4 = 500 mm
